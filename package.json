@@ -12,9 +12,9 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "next": "15.3.2",
-    "react-flip-move": "*",
-    "tailwind-scrollbar-hide": "*",
-    "@heroicons/react": "*"
+    "react-flip-move": "^3.0.4",
+    "tailwind-scrollbar-hide": "^1.1.6",
+    "@heroicons/react": "^2.0.13"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
@@ -25,4 +25,3 @@
     "typescript": "~5.8.0"
   }
 }
-
